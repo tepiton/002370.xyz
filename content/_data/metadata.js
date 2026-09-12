@@ -5,8 +5,8 @@ export default {
 	tagline: "Design for teams that would rather ship than deliberate",
 	description:
 		`${title} is a small design studio for growing teams: brand identity, websites, and product interfaces built with calm, considered craft. Placeholder brand for the eleventy-service template.`,
-	url: "https://example.com/",
-	email: "hello@example.com",
+	url: "https://002370.xyz/",
+	email: "hello@002370.xyz",
 	language: "en",
 	image: "/img/og.png",
 	author: {
