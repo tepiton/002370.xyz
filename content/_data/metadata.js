@@ -1,10 +1,8 @@
-const title = "Harborlight Studio";
-
 export default {
-	title,
-	tagline: "Design for teams that would rather ship than deliberate",
+	title: "Talking Dog Studio",
+	tagline: "Jokes for after dinner speakers",
 	description:
-		`${title} is a small design studio for growing teams: brand identity, websites, and product interfaces built with calm, considered craft. Placeholder brand for the eleventy-service template.`,
+		"Talking Dog Studio is a joke factory.",
 	url: "https://002370.xyz/",
 	email: "hello@002370.xyz",
 	language: "en",
@@ -13,7 +11,7 @@ export default {
 		name: "Your Name",
 	},
 	cta: {
-		label: "Get in touch",
+		label: "Laugh with me",
 		href: "/#contact",
 	},
 
